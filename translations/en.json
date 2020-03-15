@@ -1,9 +1,9 @@
 {
     "TITLE": "Magic Mirror Menu",
 
-    "EDIT_MENU_NAME": "Edit view",
+    "EDIT_MENU_NAME": "Show/hide module",
     "SHUTDOWN_MENU_NAME": "Power",
-    "CONFIGURE_MENU_NAME": "Edit config.js",
+    "CONFIGURE_MENU_NAME": "Install module",
     "VIEW_MIRROR": "MagicMirror<sup>2</sup>",
 
     "BACK": "Back",
