@@ -1537,15 +1537,6 @@ var buttons = {
     "refresh-mm-button": function() {
         Remote.sendSocketNotification("REMOTE_ACTION", { action: "REFRESH" });
     },
-    "fullscreen-button": function() {
-        Remote.sendSocketNotification("REMOTE_ACTION", { action: "TOGGLEFULLSCREEN" });
-    },
-    "minimize-button": function() {
-        Remote.sendSocketNotification("REMOTE_ACTION", { action: "MINIMIZE" });
-    },
-    "devtools-button": function() {
-        Remote.sendSocketNotification("REMOTE_ACTION", { action: "DEVTOOLS" });
-    },
 
     // config menu buttons
     "add-module": function() {
